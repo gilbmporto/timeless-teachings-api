@@ -213,6 +213,11 @@ const quotes = [
                 id: 4,
                 content: "A man without regrets cannot be cured.",
                 ptBRContent: "Um homem sem arrependimentos não pode ser curado."
+            },
+            {
+                id: 5,
+                content: "Well begun is half done.",
+                ptBRContent: "Bem começado é metade já feito."
             }
         ]
     },
@@ -315,6 +320,11 @@ const quotes = [
                 id: 1,
                 content: "The darker the night, the brighter the stars, The deeper the grief, the closer is God!",
                 ptBRContent: "Quanto mais escura a noite, mais brilhantes as estrelas, mais profunda a dor, mais perto está Deus!"
+            },
+            {
+                id: 2,
+                content: "Above all, don't lie to yourself. The man who lies to himself and listens to his own lie comes to a point that he cannot distinguish the truth within him, or around him, and so loses all respect for himself and for others. And having no respect he ceases to love.",
+                ptBRContent: "Acima de tudo, não minta para si mesmo. O homem que mente para si mesmo e ouve a sua própria mentira chega a um ponto em que não consegue distinguir a verdade dentro dele, ou à sua volta, e por isso perde todo o respeito por si próprio e pelos outros. E não tendo qualquer respeito, deixa de amar."
             }
         ]
     },
@@ -462,6 +472,21 @@ const quotes = [
                 id: 1,
                 content: "Whatever is begun in anger, ends in shame.",
                 ptBRContent: "O que quer que se comece com raiva, acaba em vergonha."
+            },
+            {
+                id: 2,
+                content: "Beware of little expenses; a small leak will sink a great ship.",
+                ptBRContent: "Cuidado com as pequenas despesas; uma pequena fissura pode afundar um grande navio."
+            },
+            {
+                id: 3,
+                content: "There never was a good knife made of bad steel.",
+                ptBRContent: "Nunca houve uma boa faca feita do mau aço."
+            },
+            {
+                id: 4,
+                content: "Search others for their virtues, thy self for thy vices.",
+                ptBRContent: "Procurai os outros pelas suas virtudes, o vosso eu pelos vossos vícios."
             }
         ]
     },
@@ -528,6 +553,226 @@ const quotes = [
                 id: 1,
                 content: "What the wise man does in the beginning, the fool does in the end.",
                 ptBRContent: "O que o homem sábio faz no início, o tolo faz no fim."
+            }
+        ]
+    },
+    {
+        authorId: 43,
+        authorName: "Eleanor Roosevelt",
+        quotes: [
+            {
+                id: 1,
+                content: "People grow through experience if they meet life honestly and courageously. This is how character is built.",
+                ptBRContent: "As pessoas crescem através da experiência se enfrentarem a vida de forma honesta e corajosa. É assim que se constrói o caráter."
+            }
+        ]
+    },
+    {
+        authorId: 44,
+        authorName: "Seneca",
+        quotes: [
+            {
+                id: 1,
+                content: "Life is like a play: it's not the length, but the excellence of the acting that matters.",
+                ptBRContent: "A vida é como uma peça de teatro: não é a duração, mas a excelência da representação que importa."
+            }
+        ]
+    },
+    {
+        authorId: 45,
+        authorName: "William Blake",
+        quotes: [
+            {
+                id: 1,
+                content: "In seed time learn, in harvest teach, in winter enjoy.",
+                ptBRContent: "No tempo da semente aprenda, na colheita ensine, no Inverno aprecie."
+            }
+        ]
+    },
+    {
+        authorId: 46,
+        authorName: "Johann Wolfgang Von Goethe",
+        quotes: [
+            {
+                id: 1,
+                content: "The way you see people is the way you treat them, and the way you treat them is what they become.",
+                ptBRContent: "A forma como vê as pessoas é a forma como as trata, e a forma como as trata é o que elas se tornam."
+            }
+        ]
+    },
+    {
+        authorId: 47,
+        authorName: "Napoleon Hill",
+        quotes: [
+            {
+                id: 1,
+                content: "The ladder of success is never crowded at the top.",
+                ptBRContent: "A escada do sucesso nunca está empilhada no topo."
+            }
+        ]
+    },
+    {
+        authorId: 48,
+        authorName: "Napoleon Hill",
+        quotes: [
+            {
+                id: 1,
+                content: "The ladder of success is never crowded at the top.",
+                ptBRContent: "A escada do sucesso nunca está empilhada no topo."
+            }
+        ]
+    },
+    {
+        authorId: 49,
+        authorName: "John Muir",
+        quotes: [
+            {
+                id: 1,
+                content: "In every walk with nature, one receives far more than he seeks.",
+                ptBRContent: "Em cada passeio na natureza, recebe-se muito mais do que se procura."
+            }
+        ]
+    },
+    {
+        authorId: 50,
+        authorName: "James Allen",
+        quotes: [
+            {
+                id: 1,
+                content: "The man who cannot endure to have his errors and shortcomings brought to the surface and made known, but tries to hide them, is unfit to walk the highway of truth.",
+                ptBRContent: "O homem que não suporta que os seus erros e falhas sejam trazidos à superfície e divulgados, mas tenta escondê-los, é incapaz de percorrer a estrada da verdade."
+            }
+        ]
+    },
+    {
+        authorId: 51,
+        authorName: "Dale Carnegie",
+        quotes: [
+            {
+                id: 1,
+                content: "Criticisms are like homing pigeons. They always return home.",
+                ptBRContent: "As críticas são como pombos-correio. Eles regressam sempre a casa."
+            }
+        ]
+    },
+    {
+        authorId: 52,
+        authorName: "Swami Sivananda",
+        quotes: [
+            {
+                id: 1,
+                content: "Humility is not cowardice. Meekness is not weakness. Humility and meekness are indeed spiritual powers.",
+                ptBRContent: "A humildade não é covardia. A mansidão não é fraqueza. A humildade e a mansidão são de fato poderes espirituais."
+            }
+        ]
+    },
+    {
+        authorId: 53,
+        authorName: "George Washington",
+        quotes: [
+            {
+                id: 1,
+                content: "Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.",
+                ptBRContent: "Seja cortês para com todos, mas íntimo com poucos, e deixe que esses poucos sejam bem provados antes de lhes dar a sua confiança."
+            }
+        ]
+    },
+    {
+        authorId: 54,
+        authorName: "Arthur Ashe",
+        quotes: [
+            {
+                id: 1,
+                content: "Start where you are. Use what you have. Do what you can.",
+                ptBRContent: "Comece onde está. Use o que tem. Faça o que puder."
+            }
+        ]
+    },
+    {
+        authorId: 55,
+        authorName: "Anthony J. D'Angelo",
+        quotes: [
+            {
+                id: 1,
+                content: "Wherever you go, no matter what the weather, always bring your own sunshine.",
+                ptBRContent: "Para onde quer que vá, independentemente do tempo, traga sempre o seu próprio raio de sol."
+            }
+        ]
+    },
+    {
+        authorId: 56,
+        authorName: "Elbert Hubbard",
+        quotes: [
+            {
+                id: 1,
+                content: "The greatest mistake you can make in life is to be continually fearing you will make one.",
+                ptBRContent: "O maior erro que se pode cometer na vida é estar continuamente com medo de se cometer um."
+            }
+        ]
+    },
+    {
+        authorId: 57,
+        authorName: "Arnold H. Glasow",
+        quotes: [
+            {
+                id: 1,
+                content: "Live in the present and make it so beautiful that it's worth remembering.",
+                ptBRContent: "Viva no presente e torne-o tão belo que vale a pena recordá-lo."
+            }
+        ]
+    },
+    {
+        authorId: 58,
+        authorName: "Martin Luther King Jr.",
+        quotes: [
+            {
+                id: 1,
+                content: "Everybody can be great because everybody can serve.",
+                ptBRContent: "Todos podem ser grandes porque todos podem servir."
+            }
+        ]
+    },
+    {
+        authorId: 59,
+        authorName: "Albert Einstein",
+        quotes: [
+            {
+                id: 1,
+                content: "Coincidence is God's way of remaining anonymous.",
+                ptBRContent: "A coincidência é a forma de Deus permanecer no anonimato."
+            }
+        ]
+    },
+    {
+        authorId: 60,
+        authorName: "Rosa Parks",
+        quotes: [
+            {
+                id: 1,
+                content: "I have learned over the years that when one's mind is made up, this diminishes fear. Knowing what must be done does away with fear.",
+                ptBRContent: "Aprendi ao longo dos anos que quando se toma uma decisão, isso diminui o medo. Saber o que deve ser feito afasta o medo."
+            }
+        ]
+    },
+    {
+        authorId: 61,
+        authorName: "G. K. Chesterton",
+        quotes: [
+            {
+                id: 1,
+                content: "I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.",
+                ptBRContent: "Defendo que os agradecimentos são a forma mais elevada de pensamento, e que a gratidão é a felicidade duplicada pela maravilha."
+            }
+        ]
+    },
+    {
+        authorId: 62,
+        authorName: "G. K. Chesterton",
+        quotes: [
+            {
+                id: 1,
+                content: "I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.",
+                ptBRContent: "Defendo que os agradecimentos são a forma mais elevada de pensamento, e que a gratidão é a felicidade duplicada pela maravilha."
             }
         ]
     },
