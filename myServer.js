@@ -65,6 +65,14 @@ app.get('/api/restricted-area/:login', (req, res, next) => {
         {
             username: 'Ale.Santos',
             password: '261501'
+        },
+        {
+            username: 'davi.navarro',
+            password: '878959'
+        },
+        {
+            username: 'jon.melo',
+            password: '246974'
         }
     ];
     const methods = ['POST', 'PUT', 'DELETE'];

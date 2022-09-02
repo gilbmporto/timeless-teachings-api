@@ -613,17 +613,6 @@ const quotes = [
     },
     {
         authorId: 48,
-        authorName: "Napoleon Hill",
-        quotes: [
-            {
-                id: 1,
-                content: "The ladder of success is never crowded at the top.",
-                ptBRContent: "A escada do sucesso nunca está empilhada no topo."
-            }
-        ]
-    },
-    {
-        authorId: 49,
         authorName: "John Muir",
         quotes: [
             {
@@ -634,7 +623,7 @@ const quotes = [
         ]
     },
     {
-        authorId: 50,
+        authorId: 49,
         authorName: "James Allen",
         quotes: [
             {
@@ -645,7 +634,7 @@ const quotes = [
         ]
     },
     {
-        authorId: 51,
+        authorId: 50,
         authorName: "Dale Carnegie",
         quotes: [
             {
@@ -656,7 +645,7 @@ const quotes = [
         ]
     },
     {
-        authorId: 52,
+        authorId: 51,
         authorName: "Swami Sivananda",
         quotes: [
             {
@@ -667,7 +656,7 @@ const quotes = [
         ]
     },
     {
-        authorId: 53,
+        authorId: 52,
         authorName: "George Washington",
         quotes: [
             {
@@ -678,7 +667,7 @@ const quotes = [
         ]
     },
     {
-        authorId: 54,
+        authorId: 53,
         authorName: "Arthur Ashe",
         quotes: [
             {
@@ -689,7 +678,7 @@ const quotes = [
         ]
     },
     {
-        authorId: 55,
+        authorId: 54,
         authorName: "Anthony J. D'Angelo",
         quotes: [
             {
@@ -700,7 +689,7 @@ const quotes = [
         ]
     },
     {
-        authorId: 56,
+        authorId: 55,
         authorName: "Elbert Hubbard",
         quotes: [
             {
@@ -711,7 +700,7 @@ const quotes = [
         ]
     },
     {
-        authorId: 57,
+        authorId: 56,
         authorName: "Arnold H. Glasow",
         quotes: [
             {
@@ -722,7 +711,7 @@ const quotes = [
         ]
     },
     {
-        authorId: 58,
+        authorId: 57,
         authorName: "Martin Luther King Jr.",
         quotes: [
             {
@@ -733,7 +722,7 @@ const quotes = [
         ]
     },
     {
-        authorId: 59,
+        authorId: 58,
         authorName: "Albert Einstein",
         quotes: [
             {
@@ -744,7 +733,7 @@ const quotes = [
         ]
     },
     {
-        authorId: 60,
+        authorId: 59,
         authorName: "Rosa Parks",
         quotes: [
             {
@@ -755,7 +744,7 @@ const quotes = [
         ]
     },
     {
-        authorId: 61,
+        authorId: 60,
         authorName: "G. K. Chesterton",
         quotes: [
             {
@@ -764,18 +753,7 @@ const quotes = [
                 ptBRContent: "Defendo que os agradecimentos são a forma mais elevada de pensamento, e que a gratidão é a felicidade duplicada pela maravilha."
             }
         ]
-    },
-    {
-        authorId: 62,
-        authorName: "G. K. Chesterton",
-        quotes: [
-            {
-                id: 1,
-                content: "I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.",
-                ptBRContent: "Defendo que os agradecimentos são a forma mais elevada de pensamento, e que a gratidão é a felicidade duplicada pela maravilha."
-            }
-        ]
-    },
+    }
 ];
 
     module.exports = quotes;
