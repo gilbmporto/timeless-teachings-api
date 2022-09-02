@@ -198,6 +198,21 @@ const quotes = [
                 id: 1,
                 content: "A friend to all is a friend to none.",
                 ptBRContent: "Um amigo de todos não é amigo de ninguém."
+            },
+            {
+                id: 2,
+                content: "Educating the mind without educating the heart is no education at all.",
+                ptBRContent: "Educar a mente sem educar o coração não pode nem sequer ser considerado educação."
+            },
+            {
+                id: 3,
+                content: "Character may almost be called the most effective means of persuasion.",
+                ptBRContent: "O caráter pode quase ser considerado o meio de persuasão mais eficaz."
+            },
+            {
+                id: 4,
+                content: "A man without regrets cannot be cured.",
+                ptBRContent: "Um homem sem arrependimentos não pode ser curado."
             }
         ]
     },
@@ -231,6 +246,11 @@ const quotes = [
                 id: 1,
                 content: "The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for.",
                 ptBRContent: "O objetivo da vida é o autodesenvolvimento. Perceber perfeitamente a própria natureza - é para isso que cada um de nós está aqui."
+            },
+            {
+                id: 2,
+                content: "Experience is simply the name we give our mistakes.",
+                ptBRContent: "Experiência é simplesmente o nome que damos aos nossos erros."
             }
         ]
     },
@@ -257,6 +277,11 @@ const quotes = [
                 id: 4,
                 content: "The world makes way for the man who knows where he is going.",
                 ptBRContent: "O mundo abre caminho para o homem que sabe para onde ele vai."
+            },
+            {
+                id: 5,
+                content: "People only see what they are prepared to see.",
+                ptBRContent: "As pessoas só vêem o que estão preparadas para ver."
             }
         ]
     },
@@ -369,7 +394,143 @@ const quotes = [
                 ptBRContent: "A melhor preparação para o amanhã é fazer o seu melhor hoje."
             }
         ]
-    }
+    },
+    {
+        authorId: 32,
+        authorName: "Epicteto",
+        quotes: [
+            {
+                id: 1,
+                content: "The greater the difficulty the more glory in surmounting it. Skillful pilots gain their reputation from storms and tempests.",
+                ptBRContent: "Quanto maior for a dificuldade, maior será a glória em ultrapassá-la. Os pilotos habilidosos ganham a sua reputação devido a tempestades e tempestades."
+            },
+            {
+                id: 2,
+                content: "Who then is invincible? The one who cannot be upset by anything outside their reasoned choice.",
+                ptBRContent: "Quem é então invencível? Aquele que não pode ser perturbado por nada fora da sua escolha consciente."
+            },
+            {
+                id: 3,
+                content: "No man is free who is not master of himself.",
+                ptBRContent: "Nenhum homem é livre se não for mestre de si mesmo."
+            },
+            {
+                id: 4,
+                content: "Decide to construct your character through excellent actions and determine to pay the price of a worthy goal. The trials you encounter will introduce you to your strengths.",
+                ptBRContent: "Decida construir o seu caráter através de excelentes ações e determine pagar o preço de um objetivo digno. As provas que encontrar irão apresentá-lo aos seus pontos fortes."
+            }
+        ]
+    },
+    {
+        authorId: 33,
+        authorName: "Socrates",
+        quotes: [
+            {
+                id: 1,
+                content: "We cannot live better than in seeking to become better.",
+                ptBRContent: "Não podemos viver melhor do que simplesmente estarmos na busca de sermos melhores."
+            }
+        ]
+    },
+    {
+        authorId: 34,
+        authorName: "Alexander Graham Bell",
+        quotes: [
+            {
+                id: 1,
+                content: "Concentrate all your thoughts upon the work in hand. The Sun's rays do not burn until brought to a focus.",
+                ptBRContent: "Concentre todos os seus pensamentos no trabalho que tem em mãos. Os raios do Sol não queimam se não forem focalizados."
+            }
+        ]
+    },
+    {
+        authorId: 35,
+        authorName: "Benjamin Disraeli",
+        quotes: [
+            {
+                id: 1,
+                content: "The greatest good you can do for another is not just share your riches but reveal to them their own.",
+                ptBRContent: "O maior bem que se pode fazer pelo outro não é apenas partilhar as suas riquezas, mas revelar-lhes as suas próprias."
+            }
+        ]
+    },
+    {
+        authorId: 36,
+        authorName: "Benjamin Franklin",
+        quotes: [
+            {
+                id: 1,
+                content: "Whatever is begun in anger, ends in shame.",
+                ptBRContent: "O que quer que se comece com raiva, acaba em vergonha."
+            }
+        ]
+    },
+    {
+        authorId: 37,
+        authorName: "Earl Nightingale",
+        quotes: [
+            {
+                id: 1,
+                content: "Our attitude toward life determines life's attitude towards us.",
+                ptBRContent: "A nossa atitude em relação à vida determina a atitude da vida em relação a nós."
+            }
+        ]
+    },
+    {
+        authorId: 38,
+        authorName: "Charles W. Eliot",
+        quotes: [
+            {
+                id: 1,
+                content: "Books are the quietest and most constant of friends; they are the most accessible and wisest of counselors, and the most patient of teachers.",
+                ptBRContent: "Os livros são o mais calmo e constante dos amigos; são o mais acessível e o mais sábio dos conselheiros, e o mais paciente dos professores."
+            }
+        ]
+    },
+    {
+        authorId: 39,
+        authorName: "Rudyard Kipling",
+        quotes: [
+            {
+                id: 1,
+                content: "The individual has always had to struggle to keep from being overwhelmed by the tribe. To be your own man is hard business. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself.",
+                ptBRContent: "O indivíduo sempre teve de lutar para não ser subjugado pela tribo. Ser o seu próprio homem é um trabalho difícil. Se o tentarem, ficarão muitas vezes sozinhos, e por vezes assustados. Mas nenhum preço é demasiado alto para pagar pelo privilégio de ser dono de si próprio."
+            }
+        ]
+    },
+    {
+        authorId: 40,
+        authorName: "Mahatma Gandhi",
+        quotes: [
+            {
+                id: 1,
+                content: "Prayer is not asking. It is a longing of the soul. It is daily admission of one's weakness. It is better in prayer to have a heart without words than words without a heart.",
+                ptBRContent: "Rezar não é pedir. É um anseio da alma. É a admissão diária da própria fraqueza. É melhor em oração ter um coração sem palavras do que palavras sem coração."
+            }
+        ]
+    },
+    {
+        authorId: 41,
+        authorName: "John C. Maxwell",
+        quotes: [
+            {
+                id: 1,
+                content: "The secret to your success is found in your daily routine.",
+                ptBRContent: "O segredo do seu sucesso encontra-se na sua rotina diária."
+            }
+        ]
+    },
+    {
+        authorId: 42,
+        authorName: "Warren Buffett",
+        quotes: [
+            {
+                id: 1,
+                content: "What the wise man does in the beginning, the fool does in the end.",
+                ptBRContent: "O que o homem sábio faz no início, o tolo faz no fim."
+            }
+        ]
+    },
 ];
 
     module.exports = quotes;
