@@ -1,0 +1,22 @@
+{
+  "name": "gilquoteapi2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "QuotesDB.js",
+  "scripts": {
+    "start": "node myServer.js",
+    "devStart": "nodemon myServer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0"
+  }
+}
