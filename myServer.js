@@ -74,11 +74,10 @@ app.get('/api/restricted-area/:login', (req, res, next) => {
             res.status(200).send({auth: authValue, method: methods, data: methods});
             console.log({auth: authValue, method: methods, data: database});
             break;
-        } else {
-            authValue = false;
-            res.status(403).send({auth: authValue});
         };
     };
+    authValue = false;
+    res.status(403).send({auth: authValue});
 });
 
 app.get('/api/use-post-method', (req, res, next) => {
